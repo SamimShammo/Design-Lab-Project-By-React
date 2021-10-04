@@ -1,0 +1,21 @@
+.teacher-img{
+    height: 250px;
+}
+.teacher-card{
+    height: 530px;
+    margin: 10px 10px;
+}
+.teach{
+    text-align: center;
+}
+.teacher{
+    color: black;
+    padding: 6px 10px;
+    border: 1px solid gray;
+    background-color: transparent;
+}
+.teacher:hover{
+    color: white;
+   
+    background-color: black;
+}

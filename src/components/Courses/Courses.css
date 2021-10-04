@@ -1,0 +1,20 @@
+.myCard{
+  height: 560px;
+  margin: 10px 10px;
+}
+.enrol{
+    border: 1px solid gray;
+    margin-left: 50px;
+    border-radius: 20px;
+    padding: 6px 10px;
+    background-color: transparent;
+    
+    
+}
+.enrol:hover{
+  background-color: black;
+  
+  color: white;
+
+    
+}

@@ -1,0 +1,40 @@
+.banner-container{
+    background-image: url(../Img/laptop-1209008.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.content-container{
+    color: white;
+}
+.banner{
+    background-color: rgba(0, 0, 0, 0.335);
+    padding: 15% 0%;
+
+}
+.banner-heading{
+    font-size: 60px;
+}
+.banner-p{
+    font-size: 18px;
+}
+.home-api-course{
+    margin: 100px 0;
+}
+.see-all{
+    color: black;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: transparent;
+    padding: 6px 10px;
+}
+.see-all:hover{
+    color: white;
+   
+    background-color: black;
+}
+.btn-course{
+    margin-top: 20px;
+    text-align:center;
+}

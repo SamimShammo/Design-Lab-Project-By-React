@@ -1,0 +1,24 @@
+.manu{
+    text-decoration: none;
+    margin-left: 50px;
+    color: white;
+    font-weight: bold;
+ 
+}
+.manu:hover{
+    text-decoration: none;
+    margin-left: 50px;
+    color: white;
+    border-bottom: 1px solid gray;
+}
+
+.header-container{
+    background-color:  rgba(0, 0, 0, 0.931);
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+.lab-logo{
+    filter: invert();
+    width: 65%;
+}

@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.931);
+    padding-top: 50px;
+    
+}
+.copyRight{
+    text-align: center;
+    color: white;
+}
+.information{
+    display: flex;
+    color: white;
+}
+.footer-icon i{
+    font-size: 30px;
+    margin: 20px;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+    color: white;
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "CC1",
+    "name": "Adobe Illustrator CC – Masterclass",
+    "description": "In this Adobe Illustrator Advanced course we'll learn Advanced techniques for graphic design, logo design & illustration",
+    "duration": "10 Hours",
+    "thumb_img": "https://i.ibb.co/Yp5z6nC/Training-course-in-adobe-illustrator-cc-masterclass-t4d.jpg",
+    "mentor": "Russell R. Shaver",
+    "type": "Intermediate",
+    "price": 55
+  },
+  {
+    "id": "CC2",
+    "name": "Become a Calculus 1 Master",
+    "description": "Learn everything from Calculus 1, then test your knowledge with 600+ practice questions",
+    "duration": "12 Hours",
+    "thumb_img": "https://i.ibb.co/X3626Vx/algebra-math-course.jpg",
+    "mentor": "Jamie E. Nelson",
+    "type": "Intermediate",
+    "price": 35
+  },
+  {
+    "id": "CC3",
+    "name": "Not Just a Happiness Course",
+    "description": "Learn The Science of Well-Being from Yale University. In this course you will engage in a series of challenges designed.",
+    "thumb_img": "https://i.ibb.co/N7ykHBQ/happines-course.jpg",
+    "duration": "6 Hours",
+    "mentor": "Rebecca M. Fenn",
+    "type": "Beginners",
+    "price": 20
+  },
+  {
+    "id": "CC4",
+    "name": "Public Speaking and Presenting at Work",
+    "description": "Master professional presentation skills, develop confidence, command the room, facilitate meetings & design your speech.",
+    "thumb_img": "https://i.ibb.co/68Hy21r/speaking-course.jpg",
+    "duration": "4 Hours",
+    "mentor": "Robert Johnson",
+    "type": "Beginners",
+    "price": 25
+  },
+  {
+    "id": "CC5",
+    "name": "Video Editing Intermediate Course",
+    "description": "Learn video editing for youtube & social media with this complete 14 hours online course of Adobe Premiere Pro 2021",
+    "thumb_img": "https://i.ibb.co/PD1T23R/video-editing-course.jpg",
+    "duration": "10 Hours",
+    "mentor": "Stephen S. Maas",
+    "type": "Intermediate",
+    "price": 120
+  },
+  {
+    "id": "CC6",
+    "name": "After Effects & Premiere Pro For Beginners",
+    "description": "Learn to make scroll stopping Social Media Videos that businesses actually want!",
+    "thumb_img": "https://i.ibb.co/PcL4Xz7/aftereffect-editing-course.jpg",
+    "duration": "12 Hours",
+    "mentor": "John H. Muller",
+    "type": "Beginners",
+    "price": 69
+  },
+  {
+    "id": "CC7",
+    "name": "WordPress for Beginners: Create a Website Step by Step",
+    "description": "Create Websites and Blogs With Zero Experience Using WordPress and This Step By Step Guide",
+    "duration": "5 Hours",
+    "thumb_img": "https://i.ibb.co/qFhHBqq/wordpress-course.jpg",
+    "mentor": "Vincent J. Veazey",
+    "type": "Beginners",
+    "price": 44
+  },
+  {
+    "id": "CC8",
+    "name": "Getting Started -Elementor Page Builder",
+    "description": "Learn How To Create an AMAZING Wordpress Website! Master Wordpress and Elementor Page Builder!",
+    "duration": "1 Hours",
+    "thumb_img": "https://i.ibb.co/dBBLymH/elementor-course.jpg",
+    "mentor": "Michael A. Pagan",
+    "type": "Beginners",
+    "price": 18
+  },
+  {
+    "id": "CC9",
+    "name": "Beginning Drawing and Painting Course for Beginners",
+    "description": "Students Will Learn How to Draw & Watercolor Paint 12 Cute Animals Step-By-Step. For Beginners of All Ages and Abilities",
+    "duration": "3 Hours",
+    "thumb_img": "https://i.ibb.co/k6vZ2Qy/drawing-course.jpg",
+    "mentor": "Linda R. Kendall",
+    "type": "Beginners",
+    "price": 30
+  },
+  {
+    "id": "CC10",
+    "name": "Learn to Paint With Impact",
+    "description": "From ordinary to stunning paintings! What makes a painting stand out from the rest? Learn how to add impact to your art.",
+    "duration": "6 Hours",
+    "thumb_img": "https://i.ibb.co/2WKNTPp/paint-course.jpg",
+    "mentor": "Chris F. Rodriguez",
+    "type": "Intermediate",
+    "price": 45
+  },
+  {
+    "id": "CC11",
+    "name": "Photography - Become a Better Photographer",
+    "description": "See results today! 50 photography tips for taking amazing photos with your DSLR, Mirrorless or compact camera.",
+    "duration": "4 Hours",
+    "thumb_img": "https://i.ibb.co/vcxfPLk/photographer-course.jpg",
+    "mentor": "Garrett Smith",
+    "type": "Beginners",
+    "price": 25
+  },
+  {
+    "id": "CC12",
+    "name": "Photography Masterclass: A Complete Guide to Photography",
+    "description": "The Best Online Professional Photography Class: How to Take Amazing Photos for Beginners & Advanced Photographers",
+    "duration": "16 Hours",
+    "thumb_img": "https://i.ibb.co/SwP68Sy/advance-photographer-course.jpg",
+    "mentor": "Marion West",
+    "type": "Intermediate",
+    "price": 55
+  },
+  {
+    "id": "CC13",
+    "name": "Leadership Masterclass",
+    "description": "World-renowned business educator and coach, Dr. Marshall Goldsmith offers practical and proven methods for success.",
+    "duration": "3 Hours",
+    "thumb_img": "https://i.ibb.co/DG8F14R/leadership-course.jpg",
+    "mentor": "Anthony Fogle",
+    "type": "Beginners",
+    "price": 24
+  },
+  {
+    "id": "CC14",
+    "name": "Women's Leadership Masterclass",
+    "description": "Based on the best seller \"How Women Rise: Break the Habits Holding Your Career Back\"",
+    "thumb_img": "https://i.ibb.co/jWZrRmz/women-leadership-course.jpg",
+    "duration": "2 Hours",
+    "mentor": "Myrtle Koch",
+    "type": "Beginners",
+    "price": 30
+  },
+  {
+    "id": "CC15",
+    "name": "Learn HTML5 Programming From Scratch",
+    "description": "A Complete HTML5 Programming Course for Beginners",
+    "thumb_img": "https://i.ibb.co/FWktSxq/html-css.jpg",
+    "duration": "14 Hours",
+    "mentor": "John H. Muller",
+    "type": "Beginners",
+    "price": 45
+  },
+  {
+    "id": "CC16",
+    "name": "Learn How To Be an Effective Teacher of the Writing Process",
+    "description": "Do you have difficulty teaching your students how to write? This course will equip you.",
+    "thumb_img": "https://i.ibb.co/bdMTHnj/english-course.jpg",
+    "duration": "6 Hours",
+    "mentor": "John H. Muller",
+    "type": "Joyce Thacker",
+    "price": 55
+  }
+]

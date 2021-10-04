@@ -1,0 +1,62 @@
+[
+    {
+        "id": "CC3",
+        "name": "Not Just a Happiness Course",
+        "description": "Learn The Science of Well-Being from Yale University. In this course you will engage in a series of challenges designed.",
+        "thumb_img": "https://i.ibb.co/N7ykHBQ/happines-course.jpg",
+        "duration": "6 Hours",
+        "mentor": "Rebecca M. Fenn",
+        "type": "Beginners",
+        "price": 20
+      },
+      {
+        "id": "CC4",
+        "name": "Public Speaking and Presenting at Work",
+        "description": "Master professional presentation skills, develop confidence, command the room, facilitate meetings & design your speech.",
+        "thumb_img": "https://i.ibb.co/68Hy21r/speaking-course.jpg",
+        "duration": "4 Hours",
+        "mentor": "Robert Johnson",
+        "type": "Beginners",
+        "price": 25
+      },
+      {
+        "id": "CC5",
+        "name": "Video Editing Intermediate Course",
+        "description": "Learn video editing for youtube & social media with this complete 14 hours online course of Adobe Premiere Pro 2021",
+        "thumb_img": "https://i.ibb.co/PD1T23R/video-editing-course.jpg",
+        "duration": "10 Hours",
+        "mentor": "Stephen S. Maas",
+        "type": "Intermediate",
+        "price": 120
+      },
+      {
+        "id": "CC7",
+        "name": "WordPress for Beginners: Create a Website Step by Step",
+        "description": "Create Websites and Blogs With Zero Experience Using WordPress and This Step By Step Guide",
+        "duration": "5 Hours",
+        "thumb_img": "https://i.ibb.co/qFhHBqq/wordpress-course.jpg",
+        "mentor": "Vincent J. Veazey",
+        "type": "Beginners",
+        "price": 44
+      },
+      {
+        "id": "CC8",
+        "name": "Getting Started -Elementor Page Builder",
+        "description": "Learn How To Create an AMAZING Wordpress Website! Master Wordpress and Elementor Page Builder!",
+        "duration": "1 Hours",
+        "thumb_img": "https://i.ibb.co/dBBLymH/elementor-course.jpg",
+        "mentor": "Michael A. Pagan",
+        "type": "Beginners",
+        "price": 18
+      },
+      {
+        "id": "CC6",
+        "name": "After Effects & Premiere Pro For Beginners",
+        "description": "Learn to make scroll stopping Social Media Videos that businesses actually want!",
+        "thumb_img": "https://i.ibb.co/PcL4Xz7/aftereffect-editing-course.jpg",
+        "duration": "12 Hours",
+        "mentor": "John H. Muller",
+        "type": "Beginners",
+        "price": 69
+      }
+]
